@@ -1,4 +1,4 @@
-### Hi there 👋! I'm Aaron Perry.
+### Hi there 👋, I'm Aaron Perry.
 
 ### 👨‍💻 &nbsp;About Me 
 

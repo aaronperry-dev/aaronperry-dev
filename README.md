@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋! I'm Aaron Perry.
 
-<!--
-**aaronperry-dev/aaronperry-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 &nbsp;About Me 
 
-Here are some ideas to get you started:
+Exploring new technologies and developing data solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I'm Working On
+- Turning open-source weather data into business-critical information
+- Engineering various geospatial datasets
+- Building data-driven solutions
+
+### 🛠 &nbsp;Tech Stack
+
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=bash)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logoColor=1572B6&logo=python)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+![SciPy](https://img.shields.io/badge/-SciPy-333333?style=flat&logo=scipy)
+![wgrib2](https://img.shields.io/badge/-wgrib2-333333?style=flat&logoColor=563D7C)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![GDAL](https://img.shields.io/badge/-GDAL-333333?style=flat&logo=gdal)
+![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![ArcGIS](https://img.shields.io/badge/-ArcGIS-333333?style=flat&logo=arcgis)
+  
+###  🤝🏻 &nbsp;Connect with Me
+
+<a href="https://aaronperry.net/"><img src="https://img.shields.io/badge/-aaronperry.net-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aaronperry-0012d156"><img src="https://img.shields.io/badge/-Aaron%20Perry-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:aaronperry917@gmail.com"><img src="https://img.shields.io/badge/-aaronperry917@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>

@@ -2,7 +2,7 @@
 
 ### 👨‍💻 &nbsp;About Me 
 
-Exploring new technologies and developing data solutions
+Exploring new technologies and creating data-driven solutions
 
 ### 💻 What I'm Working On
 - Turning open-source weather data into business-critical information

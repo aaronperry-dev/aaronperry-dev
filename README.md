@@ -2,12 +2,12 @@
 
 ### 👨‍💻 &nbsp;About Me 
 
-Exploring new technologies and creating data-driven solutions
+Exploring new geospatial technologies and creating data-driven solutions
 
 ### 💻 What I'm Working On
 - Turning open-source weather data into business-critical information
 - Engineering various geospatial datasets
-- Building data-driven solutions
+- Building data-driven solutions at scale
 
 ### 🛠 &nbsp;Tech Stack
 

@@ -1,4 +1,4 @@
-![alt text](https://github.com/aaronperry-dev/aaronperry-dev.github.io/blob/main/banner.jpg?raw=true)
+![alt text](https://github.com/aaronperry-dev/aaronperry-dev.github.io/blob/main/banner-sm.jpg?raw=true)
 
 ### Hi there 👋, I'm Aaron Perry.
 

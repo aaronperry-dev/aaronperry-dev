@@ -22,11 +22,12 @@ Exploring new geospatial technologies and creating data-driven solutions
 ![NetCDF](https://img.shields.io/badge/-NetCDF-333333?style=flat&logoColor=563D7C)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![GDAL](https://img.shields.io/badge/-GDAL-333333?style=flat&logo=gdal)
+![GeoJSON](https://img.shields.io/badge/-GeoJSON-333333?style=flat&logo=geojson)
 ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![GeoPandas](https://img.shields.io/badge/-GeoPandas-333333?style=flat&logo=geopandas)
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-333333?style=flat&logo=arcgis)
-![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json)
+![QGIS](https://img.shields.io/badge/-QGIS-333333?style=flat&logo=qgis)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
   

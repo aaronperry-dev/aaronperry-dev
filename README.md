@@ -21,7 +21,9 @@ Exploring new geospatial technologies and creating data-driven solutions
 ![GDAL](https://img.shields.io/badge/-GDAL-333333?style=flat&logo=gdal)
 ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![GeoPandas](https://img.shields.io/badge/-GeoPandas-333333?style=flat&logo=geopandas)
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-333333?style=flat&logo=arcgis)
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
   
 ###  🤝🏻 &nbsp;Connect with Me
 

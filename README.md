@@ -24,6 +24,7 @@ Exploring new geospatial technologies and creating data-driven solutions
 ![GeoPandas](https://img.shields.io/badge/-GeoPandas-333333?style=flat&logo=geopandas)
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-333333?style=flat&logo=arcgis)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
   
 ###  🤝🏻 &nbsp;Connect with Me
 

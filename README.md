@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://github.com/aaronperry-dev/aaronperry-dev.github.io/blob/main/banner.jpg))
+![alt text](https://github.com/aaronperry-dev/aaronperry-dev.github.io/blob/main/banner.jpg?raw=true)
 
 ### Hi there 👋, I'm Aaron Perry.
 

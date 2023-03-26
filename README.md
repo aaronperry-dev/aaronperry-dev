@@ -7,9 +7,10 @@
 Exploring new geospatial technologies and creating data-driven solutions
 
 ### 💻 What I'm Working On
-- Turning open-source weather data into business-critical information
+- Analyzing geospatial metadata streams using ElasticSearch and Kibana
 - Engineering various geospatial datasets
-- Building data-driven solutions at scale
+- Streamlining API integration of geospatial technology
+- Reducing architectural complexity
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -25,6 +26,7 @@ Exploring new geospatial technologies and creating data-driven solutions
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![GeoPandas](https://img.shields.io/badge/-GeoPandas-333333?style=flat&logo=geopandas)
 ![ArcGIS](https://img.shields.io/badge/-ArcGIS-333333?style=flat&logo=arcgis)
+![JSON(https://img.shields.io/badge/-JSON-333333?style=flat&logo=json)
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
   

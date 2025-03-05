@@ -36,5 +36,4 @@ Exploring new geospatial technologies and creating data-driven solutions
 <a href="https://aaronperry-dev.github.io/"><img src="https://img.shields.io/badge/-aaronperry&#8211;dev-333333?style=flat-square&logo=github"/></a>
 <a href="https://aaronperry.net/"><img src="https://img.shields.io/badge/-aaronperry.net-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aaronperry-0012d156"><img src="https://img.shields.io/badge/-Aaron%20Perry-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/PineTreePilgrim"><img src="https://img.shields.io/badge/-PineTreePilgrim-3423A6?style=flat-square&logo=Twitter&logoColor=white"/></a>
 <a href="mailto:aaronperry917@gmail.com"><img src="https://img.shields.io/badge/-aaronperry917@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
